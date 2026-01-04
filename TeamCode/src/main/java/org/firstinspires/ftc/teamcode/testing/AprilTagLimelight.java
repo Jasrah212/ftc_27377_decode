@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.hardware.IMU;
 import org.firstinspires.ftc.robotcore.external.navigation.Pose3D;
 import org.firstinspires.ftc.robotcore.external.navigation.YawPitchRollAngles;
 
-// If there is a delay with the start, move to the init class but will drain batter
+// If there is a delay with the start, move to the init class but will drain battery
 public class AprilTagLimelight extends OpMode {
     private Limelight3A limelight;
     private IMU imu;
